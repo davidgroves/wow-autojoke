@@ -1,0 +1,6 @@
+## Interface: 30400
+## Title: Autojoke
+## Notes: Automatically tells jokes on readychecks, or on /joke
+## Version: 0.0.1
+
+Autojoke.lua
